@@ -10,3 +10,5 @@ ReactDOM.render(<App />, document.getElementById('root'));
 // unregister() to register() below. Note this comes with some pitfalls.
 // Learn more about service workers: https://bit.ly/CRA-PWA
 serviceWorker.unregister();
+
+// Inspired from - https://medium.com/swlh/create-a-simple-calculator-app-in-react-9fd645bb21ac
