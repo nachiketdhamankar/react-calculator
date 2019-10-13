@@ -18,6 +18,7 @@ You will also see any lint errors in the console.
 
 #### Mentions
 ---
+- The purpose of this project was to learn more about React and familiarize myself with React.
 - This app was built using the [Create React App](https://github.com/facebook/create-react-app). - Full guide [here](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md)
 - The post that was the inspiration is [here](https://www.fullstackreact.com/react-daily-ui/004-calculator/)
 - Most importantly, I realised the more I learn, the more there is to learn. In React especially. 
